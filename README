@@ -1,0 +1,11 @@
+
+<<<<TEAM HATERS OPEN SOURCE PROJECT>>>>
+
+<1>  repo init -u git@github.com:TeamHaters/teamHATERS.git -b jb42
+<2>  . build/envsetup.sh
+<3>  lunch
+<4>  choose what you want to build (for now, toro)
+<5>  make -j4 otapackage
+<6>  #profit
+
+
