@@ -35,7 +35,7 @@
   <project path="device/generic/x86" name="device/generic/x86" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
-  <project path="device/lge" name="android_device_lge_mako" remote="TeamHaters" revision="mr1-staging" />
+  <project path="device/lge/mako" name="android_device_lge_mako" remote="TeamHaters" revision="mr1-staging" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/maguro" name="device/samsung/maguro" groups="device" />
@@ -250,7 +250,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
-  <project path="kernel/lge" name="lge-kernel-mako" remote="cm" revision="jellybean" />
+  <project path="kernel/lge/mako" name="lge-kernel-mako" remote="cm" revision="jellybean" />
   <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
@@ -349,7 +349,7 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
-  <project path="vendor/lge" name="android_vendor_lge_mako" remote="TeamHaters" revision="jellybean" />
+  <project path="vendor/lge/mako" name="android_vendor_lge_mako" remote="TeamHaters" revision="jellybean" />
   <project path="vendor/team_HATERS" name="vendor_HATERS" remote="TeamHaters" revision="jb42" />
   <project path="vendor/samsung" name="vendor_samsung" remote="TeamHaters" revision="jb42" />
 
